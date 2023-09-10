@@ -1,0 +1,28 @@
+.projetoBaixar {
+    background-color: #1f2029;
+    margin: 2px;
+    width: 1450px;
+    margin-left: 30px;
+    box-shadow: 0 0 0 1px black;
+}
+
+.projetoBaixar:hover {
+    box-shadow: 0 0 0 2px gray;
+}
+
+.paragrafo {
+    color: white;
+    margin-top: 100px;
+    font-size: 10px;
+    margin: 10px;
+    text-align: justify;
+}
+
+.botaoDownload {
+    color: #ffeba7;
+}
+
+.botaoDownload:hover {
+    color: red;
+    transition: 0.5s;
+}
